@@ -1,0 +1,21 @@
+{
+  "name": "study-app",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "krocky-cooky <64895404+krocky-cooky@users.noreply.github.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/krocky-cooky/electron",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.8.0",
+    "marked": "^1.1.1"
+  }
+}
